@@ -3,4 +3,6 @@
 
 ### Thanks to vim team
 
-Please sponsor my work at https://GitHub.com/dibend/sponsors
+Please sponsor my work at https://GitHub.com/sponsors/dibend
+
+I will use funds to invest and help my family and buy myself medicine and food
